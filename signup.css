@@ -1,4 +1,4 @@
-body {
+body { 
             /* opacity: 0; */
             animation: fadeIn 0.6s ease forwards;
         }
@@ -63,7 +63,7 @@ body {
             max-width: var(--max-width);
             width: 100%;
             box-shadow: 0 10px 30px rgba(2, 6, 23, 0.7);
-            backdrop-filter: blur(4px);
+            backdrop-filter: blur(7px);
             background-color: #ffffff28;
         }
 
